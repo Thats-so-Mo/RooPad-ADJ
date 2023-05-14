@@ -16,7 +16,7 @@ I fixed the code by implementing the correct matrix col and row pin numbers and 
 The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
 
 
-<h3>  RooPad™ Carbon Mechanical Numpad Assembled </h3>
+<h2>  RooPad™ Carbon Mechanical Numpad Assembled </h2>
 
 Want a unique quality mechanical keyboard but don't want to assemble it yourself? Then get us to do it! We can customise the CarbonPad Skeleton and RooPad to your selections and assemble it with switches installed ready for keycaps.
 
@@ -37,8 +37,6 @@ Now everyone can create a custom, fully programmable numpad without any tools o
     Has all 21 switches of your choice pre-installed 
 
 Fully programmable using QMK.
-
-QMK Firmware Badge
 
  
 
