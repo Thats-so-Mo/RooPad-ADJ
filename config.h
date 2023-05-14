@@ -13,6 +13,9 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+That's So Mo (2023) here, I fixed the matrix col and pins to actually work  and the LED pin aswell.
+
 */
 
 #pragma once
