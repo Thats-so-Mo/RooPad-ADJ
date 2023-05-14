@@ -18,6 +18,13 @@ The following below is just information found on the sale page of this Numpad on
 
 <h2>  RooPad™ Carbon Mechanical Numpad Assembled </h2>
 
+<img
+  src="https://raw.githubusercontent.com/Thats-so-Mo/RooPad-ADJ/main/Screenshot%202023-05-14%20151133.png"     
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 Want a unique quality mechanical keyboard but don't want to assemble it yourself? Then get us to do it! We can customise the CarbonPad Skeleton and RooPad to your selections and assemble it with switches installed ready for keycaps.
 
 Genuine 3K 1.5mm Carbon Fibre top and bottom panel for use with PCBs like the RooPad™. Comes with 4x 10mm anodised aluminium stand-offs. Has pre drilled 4mm mounting holes for feet. As with all our products it comes with a 5 year replacement warranty covering you for defects during normal use. 
