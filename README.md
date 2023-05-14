@@ -16,13 +16,13 @@ I fixed the code by implementing the correct matrix col and row pin numbers and 
 The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
 
 
-<h2>  RooPad™ Carbon Mechanical Numpad Assembled </h2>
+<h2>  RooPad Carbon Mechanical Numpad Assembled </h2>
 
 <img
   src="https://raw.githubusercontent.com/Thats-so-Mo/RooPad-ADJ/main/Screenshot%202023-05-14%20151133.png"     
   alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  title="RooPad"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 
 Want a unique quality mechanical keyboard but don't want to assemble it yourself? Then get us to do it! We can customise the CarbonPad Skeleton and RooPad to your selections and assemble it with switches installed ready for keycaps.
