@@ -1,21 +1,22 @@
 # RooPad-ADJ
-Fixed QMK Code and Scans of the circuit board and housing plates of Skippy's Custom PCs' RooPad
-The code found on QMK Config had made the numpad act in a weird way, where 
+Fixed QMK Code and Scans of the circuit board and housing plates of Skippy's Custom PCs' RooPad (Consider this an Archival Backup aswell)
+
+The code found on QMK Config had made the numpad act in a weird way, where the leds did not work and the certain rows and columns were either off (pressing 1, displayed 2 on screen) or not at all (enter, + - - did not work at all!).
 
 I fixed the code found on the QMK Config website, this was the following errors that I was getting:  
 First column worked well.
 Second and Third column were off by a column (e.g. pressing number 1 equaled to 2 popping up on screen)
 Fourth and Fifth Column did not work.
-First Row did not work.
+First Row did not work (Num Lock, /, *, -).
 LEDs did not work at all.
 
 I fixed the code by implementing the correct matrix col and row pin numbers and the led pin number.
 
 
-The following below is just information that would have been found on the sale page of this project on Skippy's Custom PCs website:
+The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
 
 
-<h2>  RooPad™ Carbon Mechanical Numpad Assembled </h1>
+<h3>  RooPad™ Carbon Mechanical Numpad Assembled </h3>
 
 Want a unique quality mechanical keyboard but don't want to assemble it yourself? Then get us to do it! We can customise the CarbonPad Skeleton and RooPad to your selections and assemble it with switches installed ready for keycaps.
 
