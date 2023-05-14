@@ -1,16 +1,20 @@
 # RooPad-ADJ
-Fixed QMK Code and Scans of the circuit board and housing plates of Skippy's Custom PCs' RooPad (Consider this an Archival Backup aswell)
+Fixed QMK Code and Scans of the circuit board and housing plates of Skippy's Custom PCs' RooPad (consider this an Archival Backup aswell).
 
-The code found on QMK Config had made the numpad act in a weird way, where the leds did not work and the certain rows and columns were either off (pressing 1, displayed 2 on screen) or not at all (enter, + - - did not work at all!).
+The code found on QMK Config made the numpad act in a weird way, where the LEDs did not work and certain columns were displayed incorrectly (e.g. pressing 1 resulted in 2 popping up on screen) or were not working at all (e.g. pressing Enter, +, -, - resulted in no response).
 
-I fixed the code found on the QMK Config website, this was the following errors that I was getting:  
-First column worked well.
-Second and Third column were off by a column (e.g. pressing number 1 equaled to 2 popping up on screen)
-Fourth and Fifth Column did not work.
-First Row did not work (Num Lock, /, *, -).
-LEDs did not work at all.
+I fixed the code found on the QMK Config website and identified the following issues:
 
-I fixed the code by implementing the correct matrix col and row pin numbers and the led pin number.
+
+  ~  First column was working correctly.
+
+  ~  Second and Third columns were off by one column, where pressing number 1 resulted in 2 displaying on screen.
+
+  ~  Fourth and Fifth columns did not work at all.
+
+  ~  First row did not work, where pressing Num Lock, /, *, - resulted in no response.
+
+  ~  LEDs did not work at all.
 
 
 The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
