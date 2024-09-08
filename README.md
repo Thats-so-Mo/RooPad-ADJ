@@ -16,6 +16,8 @@ I fixed the code found on the QMK Config website and identified the following is
 
   ~  LEDs did not work at all.
 
+[![Custom Mechanical Keyboard](https://github.com/Thats-so-Mo/RooBoard65-/blob/main/custom%20mechanica%20kbeyboard.png)](https://www.youtube.com/watch?v=CFnU1wdn3AY)
+Youtube Video
 
 The following below is just information found on the sale page of this Numpad on Skippy's Custom PCs website:
 
